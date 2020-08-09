@@ -1,6 +1,6 @@
 # action.yml
-name: 'Run java checkstyle'
-description: 'Run java checkstyle with reviewdog'
+name: 'Action to run java checkstyle'
+description: 'Action to Run java checkstyle with reviewdog'
 branding:
   icon: 'code'  
   color: 'red'
